@@ -1,12 +1,12 @@
 {
-  "name": "puppetlabs-azure",
-  "version": "1.1.1",
-  "author": "Puppet Labs",
-  "summary": "Create and manage machines running on Microsoft Azure with Puppet",
+  "name": "geoffwilliams-azure",
+  "version": "1.1.99",
+  "author": "Geoff Willliams",
+  "summary": "Create and manage machines running on Microsoft Azure with Puppet - hotfix module, not for general use",
   "license": "Apache-2.0",
-  "source": "https://github.com/puppetlabs/puppetlabs-azure",
-  "project_page": "https://github.com/puppetlabs/puppetlabs-azure",
-  "issues_url": "https://tickets.puppetlabs.com/browse/MODULES",
+  "source": "https://github.com/geoffwilliams/puppetlabs-azure",
+  "project_page": "https://github.com/geoffwilliams/puppetlabs-azure",
+  "issues_url": "https://www.google.com",
   "data_provider": null,
   "operatingsystem_support": [
     {
